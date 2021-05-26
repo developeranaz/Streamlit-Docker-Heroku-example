@@ -4,4 +4,5 @@ RUN pip install streamlit requests pandas
 RUN pip install fake-useragent
 RUN mkdir -p /root/.streamlit
 COPY config.toml /root/.streamlit/config.toml
-COPY app.py /var/dashboard/app.py
+COPY web/app.py /var/dashboard/app.py
+
