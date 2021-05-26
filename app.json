@@ -1,1 +1,10 @@
+{
+  "name": "Streamlit-Docker-Heroku-example",
+  "description": "A Streamlit webapp example with Docker via Heroku",
+  "logo": "https://streamlit.io/images/brand/streamlit-mark-color.svg",
+  "keywords": ["streamlit", "docker", "rapid", "button" ,"webapp"],
 
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
